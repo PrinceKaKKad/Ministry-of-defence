@@ -4,6 +4,8 @@
 
 The Ministry of Defence website provides information about the military, Indian regiments, and various equipment used by the armed forces. The website consists of an admin panel and a front end.
 
+<font color="red">**Note: This project is solely intended for educational purposes and should not be used for any unauthorized or illegal activities.**</font>
+
 ## Admin Panel
 
 In the admin panel, there are two roles: admin and user. The admin role has full access and control over the website's content and settings. The admin can make changes to user details, manage the banner, upload or update videos, news, and photos in the gallery. Additionally, the admin has the authority to modify information related to equipment and regiments. The admin panel also includes an IP tracker feature, which allows the admin to track and monitor the interactions of users with different sections of the website. This feature enables the admin to gain insights into user engagement and behavior.
