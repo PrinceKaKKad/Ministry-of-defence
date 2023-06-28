@@ -1,0 +1,94 @@
+body{
+    position: absolute;
+    background-color: #ffffff;
+}
+.left{
+    position:inherit;
+    float:left;
+    margin-left: 10%;
+    width:auto;
+    max-width:450px;
+    max-height: 450px;
+    padding:0;
+    font-family: serif;
+}
+
+.right{
+    padding-left: 30%;
+    margin-top: 10%;
+    color:#302f39;
+    font-family:Arial;
+    display:block;
+    background-color:white;
+}
+.profile-view{
+    margin:0 auto;
+    padding:0;
+    width:100%;
+}
+
+.profile-view img{
+    height: 180px;
+    width: 180px;
+    border-radius: 500px 500px 500px 500px;
+    align-items: center;
+}
+
+.profile-view img:hover{
+    height: 180px;
+    width: 180px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 20px;
+    border-radius: 500px 500px 500px 500px;
+}
+
+.profile-view h4{
+    margin-top: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.profile-view .p{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+.profile-view a{   
+    /* margin-left: 37%; */
+    background-color: #ffffff;
+    color: #5689a9;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #5689a9;
+
+}
+
+.profile-view a:hover {
+    background-color: #5689a9;
+    color: #ffffff;
+    border: 1px solid #5689a9;
+}
+
+.red a{
+    background-color: #ffffff;
+    color: #d82748;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #d82748;
+}
+
+.red a:hover {
+    background-color: #d82748;
+    color: #ffffff;
+    border: 1px solid #d82748;
+}
