@@ -4,7 +4,7 @@
 
 The Ministry of Defence website provides information about the military, Indian regiments, and various equipment used by the armed forces. The website consists of an admin panel and a front end.
 
-<font color="red">**Note: This project is solely intended for educational purposes and should not be used for any unauthorized or illegal activities.**</font>
+**Note: <span style="color:red">This project is solely intended for educational purposes and should not be used for any unauthorized or illegal activities.</span>**
 
 ## Admin Panel
 
