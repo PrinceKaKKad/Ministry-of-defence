@@ -1,0 +1,1 @@
+<?php include '../admin/ip/ip.php'; ?>
