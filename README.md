@@ -89,13 +89,13 @@ Password: Brijesh@123
   
   Author: Prince Kakkad 
   
-  Copyright 2020-2023 Princekakkad.tech, Inc. 
+  Copyright 2020-2023 codeestro.com, Inc. 
   
-  Copyright reserved by princekakkad.tech 
+  Copyright reserved by codeestro.com
   
   Commercial use is prohibited without permission. 
   
   
  Please note that commercial use of this code is strictly prohibited without permission. 
   
- For any inquiries or requests, please contact [info@princekakkad.tech](mailto:info@princekakkad.tech).
+ For any inquiries or requests, please contact [info@princekakkad.tech](mailto:info@codeestro.com).
