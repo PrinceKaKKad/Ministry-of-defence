@@ -98,4 +98,4 @@ Password: Brijesh@123
   
  Please note that commercial use of this code is strictly prohibited without permission. 
   
- For any inquiries or requests, please contact [info@princekakkad.tech](mailto:info@codeestro.com).
+ For any inquiries or requests, please contact [info@codeestro.com](mailto:info@codeestro.com).
